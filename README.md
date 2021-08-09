@@ -1,4 +1,4 @@
-# LearningToCut
+# LearningToCut: Coming soon...
 Official Code of ICCV 2021 Paper: Learning to Cut by Watching Movies
 
 **Learning to Cut by Watching Movies.**
