@@ -27,11 +27,14 @@ Download the following resources and extract the content in the appropriate dest
 | ----         |:-----:         |:-----:    |  :-----:    |
 | **Features** |  [link](https://drive.google.com/file/d/1hp5T0LCQYXu5aCxLrsU3IqGxgL3rJ9xM/view?usp=sharing) | [link](https://drive.google.com/file/d/1EDMaGM_s2g8aHchlb4pyxg7pe7kERss-/view?usp=sharing) | `./data/`|
 
+
 | **Resource** | Train | Val | Destination Folder |
 | **Annotations** |  [link](https://drive.google.com/file/d/11i0ac9fydn6scBuh7O-Sdb_3yzq5DSiK/view?usp=sharing) | [link](https://drive.google.com/file/d/1Qs8NwFz2_0jaLVphUAPZrnhaP0W0T5JU/view?usp=sharing) | `./data/`|
 
+
 | **Resource** | Durations | Destination Folder |
 | **Video Durations** |  [link](https://drive.google.com/file/d/1OsmJiLeMAyAjl97Jsf7jApRDxTk_AhxS/view?usp=sharing) | `./data/`|
+
 
 | **Resource** | Checkpoints | Destination Folder |
 | **Best Model** |  [link](https://drive.google.com/file/d/12Ci0bEYb9jjU7l_EpsL_Fgel7zWCy_ML/view?usp=sharing) | `./checkpoints/`|
