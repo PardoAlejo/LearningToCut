@@ -1,5 +1,5 @@
-# LearningToCut: Coming soon...
-Official Code of ICCV 2021 Paper: Learning to Cut by Watching Movies
+# Learning to Cut by Watching Movies 
+Official Code of ICCV 2021 Paper: [Learning to Cut by Watching Movies](https://arxiv.org/abs/2108.04294)
 
 **Learning to Cut by Watching Movies.**
 Alejandro Pardo*, Fabian Caba Heilbron, Juan León Alcázar, Ali Thabet, Bernard Ghanem. In *ICCV*, 2021.
@@ -11,8 +11,8 @@ Alejandro Pardo*, Fabian Caba Heilbron, Juan León Alcázar, Ali Thabet, Bernard
 
 Clone the repository and move to folder:
 ```bash
-git clone https://github.com/Soldelli/audiovault.git
-cd audiovault
+git clone https://github.com/PardoAlejo/LearningToCut.git
+cd LearningToCut
 ```
 
 Install environmnet:
@@ -77,3 +77,15 @@ sh inference.sh
 | Raw    | 1.16%  | 3.97%  | 6.36%  | 11.72%  | 2.51%  | 8.32%  | 13.15% | 24.25%  | 3.73%  | 12.19% | 19.33% | 34.97%  |
 | LTC    | 8.18%  | 17.95% | 24.44% | 30.35%  | 15.30% | 35.11% | 48.26% | 59.42%  | 19.18% | 46.32% | 64.30% | 79.35%  |
 </br>
+
+# Cite us
+```
+@InProceedings{Pardo_2021_ICCV,
+    author    = {Pardo, Alejandro and Caba, Fabian and Alcazar, Juan Leon and Thabet, Ali K. and Ghanem, Bernard},
+    title     = {Learning To Cut by Watching Movies},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {6858-6868}
+}
+```
