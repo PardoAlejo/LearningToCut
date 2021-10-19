@@ -4,7 +4,7 @@ Official Code of ICCV 2021 Paper: [Learning to Cut by Watching Movies](https://a
 **Learning to Cut by Watching Movies.**
 Alejandro Pardo*, Fabian Caba Heilbron, Juan León Alcázar, Ali Thabet, Bernard Ghanem. In *ICCV*, 2021.
 
-<div align="center" valign="middle"><img height="250px" src="./pull_figure.jpg"></div>
+<div align="center" valign="middle"><img height="450px" src="./pull_figure.jpg"></div>
 
 # Installation
 
