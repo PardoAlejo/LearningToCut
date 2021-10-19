@@ -69,7 +69,7 @@ cd scripts/
 ```
 
 
-TASK1 
+Inference on val set 
 ```bash
 sh inference.sh
 ```
