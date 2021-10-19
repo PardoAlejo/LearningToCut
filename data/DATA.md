@@ -10,7 +10,11 @@ Go to youtube an replace the id in this URL: `https://www.youtube.com/watch?v={v
 
 # Feature Extraction
 
-The features used for the paper are shared in the main README.md
+The features used for the paper are shared in the main README.md:
+
+| **Resource** | Video | Audio | Destination Folder |
+| ----         |:-----:         |:-----:    |  :-----:    |
+| **Features** |  [link](https://drive.google.com/file/d/1hp5T0LCQYXu5aCxLrsU3IqGxgL3rJ9xM/view?usp=sharing) | [link](https://drive.google.com/file/d/1EDMaGM_s2g8aHchlb4pyxg7pe7kERss-/view?usp=sharing) | `./data/`|
 
 However, if you wanna extract features yourself we follow the repos below.
 
