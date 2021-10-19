@@ -1,6 +1,8 @@
 # Learning to Cut by Watching Movies 
 Official Code of ICCV 2021 Paper: [Learning to Cut by Watching Movies](https://arxiv.org/abs/2108.04294)
 
+[ [ArXiv](https://arxiv.org/abs/2108.04294) | [Project Website](https://www.alejandropardo.net/publication/learning-to-cut/) | [ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/html/Pardo_Learning_To_Cut_by_Watching_Movies_ICCV_2021_paper.html) ]
+
 **Learning to Cut by Watching Movies.**
 Alejandro Pardo*, Fabian Caba Heilbron, Juan León Alcázar, Ali Thabet, Bernard Ghanem. In *ICCV*, 2021.
 
