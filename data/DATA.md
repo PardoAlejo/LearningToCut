@@ -4,7 +4,7 @@ The data from this project was downloaded from youtube.
 
 # Original videos
 
-The original videos were collected from the YouTube Channel:[Movieclips](https://www.youtube.com/channel/UC3gNmTGu-TTbFPpfSs5kNkg).
+The original videos were collected from the YouTube Channel: [Movieclips](https://www.youtube.com/channel/UC3gNmTGu-TTbFPpfSs5kNkg).
 
 To access the original videos check their youtube ID under the column `video_id` in the files: `subset_moviescenes_shotcuts_{train,val}.csv`.
 
