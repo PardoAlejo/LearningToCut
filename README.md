@@ -26,7 +26,7 @@ Download the following resources and extract the content in the appropriate dest
 
 | **Resource** | Drive File | Destination Folder |
 | ----         |:-----: |  :-----:    |
-| **Train Annotations** |   [link](https://drive.google.com/file/d/1Qs8NwFz2_0jaLVphUAPZrnhaP0W0T5JU/view?usp=sharing) | `./data/`|
+| **Train Annotations** |   [link](https://drive.google.com/file/d/11i0ac9fydn6scBuh7O-Sdb_3yzq5DSiK/view?usp=sharing) | `./data/`|
 | **Val Annotations** |   [link](https://drive.google.com/file/d/1Qs8NwFz2_0jaLVphUAPZrnhaP0W0T5JU/view?usp=sharing) | `./data/`|
 | **Video Durations** |  [link](https://drive.google.com/file/d/1OsmJiLeMAyAjl97Jsf7jApRDxTk_AhxS/view?usp=sharing) | `./data/`|
 ||||
