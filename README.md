@@ -35,7 +35,7 @@ Download the following resources and extract the content in the appropriate dest
 ||||
 | **Best Model** |  [link](https://drive.google.com/file/d/12Ci0bEYb9jjU7l_EpsL_Fgel7zWCy_ML/view?usp=sharing) | `./checkpoints/`|
 
-If you want to extract features yourself, or you need the original videos instead features, please refer to [data/DATA.md](https://github.com/PardoAlejo/LearningToCut/blob/main/data/DATA.md)
+If you want to extract features yourself, or you need the original videos instead, please refer to [data/DATA.md](https://github.com/PardoAlejo/LearningToCut/blob/main/data/DATA.md)
 
 The folder structure should be as follows:
 ```
